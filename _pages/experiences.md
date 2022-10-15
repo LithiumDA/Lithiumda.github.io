@@ -12,12 +12,16 @@ author_profile: true
 
 Education
 =====
-**Peking University**, Beijing, China
-* B.S. in Computer Science and Technology. 2018 - 2022 (expected).
+**Carnegie Mellon University**
+* Ph.D. candidate in Machine Learning. 2022 - now.
+
+**Peking University**
+* B.S. in Computer Science and Technology (Summa Cum Laude), minor in mathematics. 2018 - 2022.
+
 
 Services
 =====
-Reviewer at ICML 2022
+Reviewer at ICML 2022, NeurIPS 2022
 
 Teaching
 =====
