@@ -13,6 +13,8 @@ I am a first-year Ph.D. student in Machine Learning Department, School of Comput
 
 My research area is machine learning. Recently, my work focuses on machine learning for science. I'm also interested in attention-based models and the Transformer architecture.
 
+My detailed CV can be found [here](https://lithiumda.github.io/files/CV.pdf).
+
 Selected Publications
 =====
 [1] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021) [[PDF](https://arxiv.org/abs/2106.12566)]  
