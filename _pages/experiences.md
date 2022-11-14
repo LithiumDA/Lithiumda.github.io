@@ -13,7 +13,7 @@ author_profile: true
 Education
 =====
 **Carnegie Mellon University**
-* Ph.D. candidate in Machine Learning. 2022 - now.
+* Ph.D. student in Machine Learning. 2022 - now.
 
 **Peking University**
 * B.S. in Computer Science and Technology (Summa Cum Laude), minor in mathematics. 2018 - 2022.
