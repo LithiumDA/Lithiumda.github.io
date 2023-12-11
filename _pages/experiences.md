@@ -21,7 +21,9 @@ Education
 
 Services
 =====
-Reviewer at ICML 2022, 2023; NeurIPS 2022
+Conference Reviewer: ICML 2022, 2023; NeurIPS 2022, 2023; LOG 2023; ICLR 2024; AISTATS 2024.
+
+Workshop Reviewer: M3L @ NeurIPS 2023.
 
 Teaching
 =====
