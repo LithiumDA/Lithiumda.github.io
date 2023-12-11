@@ -17,7 +17,7 @@ My detailed CV can be found [here](https://lithiumda.github.io/files/CV.pdf).
 
 Selected Publications
 =====
-[1] **Functional Interpolation for Relative Positions Improves Long Context Transformers** (in submission) [[PDF](https://arxiv.org/abs/2310.04418)]
+[1] **Functional Interpolation for Relative Positions Improves Long Context Transformers** (in submission) [[PDF](https://arxiv.org/abs/2310.04418)]  
   **Shanda Li**, Chong You, Guru Guruganesh, Joshua Ainslie, Santiago Ontanon, Manzil Zaheer, Sumit Sanghai, Yiming Yang, Sanjiv Kumar, Srinadh Bhojanapalli
 
 [2] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021) [[PDF](https://arxiv.org/abs/2106.12566)]  
